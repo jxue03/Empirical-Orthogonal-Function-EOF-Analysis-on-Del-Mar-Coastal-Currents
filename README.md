@@ -1,1 +1,4 @@
-directly view the project by clicking on the file: [Coastal_currents_and_EOFs.ipynb]
+directly view the project by clicking on the file: [Coastal_currents_and_EOFs.ipynb]  
+
+• EOF analysis was used to examine the dominant time-depth variability of the current field, based on moored current and bottom temperature data from a mooring deployed at the 100m isobath just north of Scripps Canyon between July 2016 to May 2017.  
+• Combine the eastward (u) and northward (v) velocity components and decompose them into orthogonal modes using EOF analysis. Mode 1 accounted for 62.84% of the total variance, capturing the dominant covarying pattern in the dataset; mode 2 accounted for 13.22%; each subsequent mode maintained orthogonality while explaining progressively less variance. The first four modes explained nearly 90% of the total variance, indicating that the leading EOFs effectively reduced dimensionality while preserving the most significant variability patterns.
